@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waris206
+- 👋 Hi, I’m @waris
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning  different domains of cyber security 
 - 💞️ I’m looking to collaborate on ...
