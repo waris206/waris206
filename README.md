@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @waris
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning  different domains of cyber security 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-waris206/waris206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @waris  
+- 👀 I’m interested in coding, steganography, cryptography, and web pentesting.  
+- 🌱 I’m currently learning and exploring deeper into cybersecurity domains.  
+- 💞️ I’m open to collaborating on exciting projects in the future.  
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/muhammad-akash-waris-cyber) | Email: akashwaris.cybersec@gmail.com  
+- 😄 Pronouns: he/him  
