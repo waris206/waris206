@@ -9,7 +9,7 @@
 - 🧠 Passionate about solving complex CTF challenges and building custom tools
 - 💻 Currently building: **Phantom_Recon** — a red-team recon automation tool
 - 🔭 Exploring advanced areas of cyber through the **Different paths and rooms**  on TryHackMe
-- 👥 I play CTFs as part of the [Binary_beasts](https://waris206.github.io/Binary_Beasts-CTF-Writeups/) team
+- 👥 I play CTFs as part of the [Binary_Beasts ](https://waris206.github.io/Binary_Beasts -CTF-Writeups/) team
 - 💬 Languages I work with: `Python`, `C++`
 - 🧰 Tools I often use: `Burp Suite`, `Nmap`, `Gobuster`, `John the Ripper` , `HXD`
 - 📫 Reach me at: **akashwaris.cybersec@gmail.com**  
@@ -27,7 +27,7 @@ Participating in CTFs is my way of learning by breaking things (ethically!):
 - 🎯 **Hackfinity CTF**
 - 🎯 **Industrial Intrusion CTF**
 
-📚 Explore our team's journey and writeups: [Binary_beasts CTF Writeups](https://waris206.github.io/Binary_Beasts-CTF-Writeups/)
+📚 Explore our team's journey and writeups: [Binary_Beasts  CTF Writeups](https://waris206.github.io/Binary_Beasts -CTF-Writeups/)
 
 ---
 
@@ -35,7 +35,7 @@ Participating in CTFs is my way of learning by breaking things (ethically!):
 
 <p align="center">
   <a href="https://tryhackme.com/p/BinaryBeast2110" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/binaryBeast2110.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/BinaryBeast2110.png" alt="TryHackMe">
   </a>
 </p>
 
