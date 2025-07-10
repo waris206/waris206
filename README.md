@@ -1,5 +1,5 @@
 <h1 align="center">🕵️‍♂️ Hey there! I'm Akash Waris</h1>
-<h3 align="center">Cybersecurity Enthusiast | CTF Player | Team Leader at Binary_beasts</h3>
+<h3 align="center">Cybersecurity Enthusiast | CTF Player </h3>
 
 ---
 
@@ -8,10 +8,10 @@
 - 🔐 Cybersecurity is my battlefield — I specialize in **web pentesting, cryptography, steganography, and DFIR**
 - 🧠 Passionate about solving complex CTF challenges and building custom tools
 - 💻 Currently building: **Phantom_Recon** — a red-team recon automation tool
-- 🔭 Exploring advanced areas of cyber through the **Security Engineer** path on TryHackMe
-- 👥 Leading the [Binary_beasts](https://waris206.github.io/Binary_Beasts-CTF-Writeups/) CTF team
+- 🔭 Exploring advanced areas of cyber through the **Different paths and rooms**  on TryHackMe
+- 👥 I play CTFs as part of the [Binary_beasts](https://waris206.github.io/Binary_Beasts-CTF-Writeups/) team
 - 💬 Languages I work with: `Python`, `C++`
-- 🧰 Tools I often use: `Burp Suite`, `Nmap`, `Gobuster`, `John the Ripper`
+- 🧰 Tools I often use: `Burp Suite`, `Nmap`, `Gobuster`, `John the Ripper` , `HXD`
 - 📫 Reach me at: **akashwaris.cybersec@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-akash-waris-cyber)
 - 😄 Pronouns: **he/him**
@@ -31,11 +31,13 @@ Participating in CTFs is my way of learning by breaking things (ethically!):
 
 ---
 
-### 🏆 TryHackMe Stats
+### 🏆 TryHackMe Rank
 
-<a href="https://tryhackme.com/p/waris206">
-  <img src="https://tryhackme-badges.vercel.app/api/waris206" alt="TryHackMe Badge" />
-</a>
+<p align="center">
+  <a href="https://tryhackme.com/p/BinaryBeast2110" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/binaryBeast2110.png" alt="TryHackMe">
+  </a>
+</p>
 
 ---
 
@@ -52,8 +54,4 @@ Participating in CTFs is my way of learning by breaking things (ethically!):
 </p>
 
 ---
-
-### 💡 Motto
-
-> "Hacking is not about breaking systems, it's about understanding them deeply." — Unknown Hacker
 
