@@ -34,7 +34,7 @@ Participating in CTFs is my way of learning by breaking things (ethically!):
 ### 🏆 TryHackMe Rank
 
 <p align="center">
-  <a href="https://tryhackme.com/p/BinaryBeast2110" target="_blank">
+  <a href="https://tryhackme.com/p/XORgeist" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/BinaryBeast2110.png" alt="TryHackMe">
   </a>
 </p>
