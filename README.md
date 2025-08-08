@@ -11,7 +11,7 @@
 - 🔭 Exploring advanced areas of cyber through the **Different paths and rooms**  on TryHackMe
 - 👥 I play CTFs as part of the [Binary_Beasts ](https://waris206.github.io/Binary_Beasts -CTF-Writeups/) team
 - 💬 Languages I work with: `Python`, `C++`
-- 🧰 Tools I often use: `Burp Suite`, `Nmap`, `Gobuster`, `John the Ripper` , `HXD`
+- 🧰 Tools I often use: `Burp Suite`, `Nmap`, `Gobuster`, `John the Ripper` , `HXD` , `Wireshark` ,`ghidra` , `Brim` , `network miner` , `autopsy`
 - 📫 Reach me at: **akashwaris.cybersec@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-akash-waris-cyber)
 - 😄 Pronouns: **he/him**
