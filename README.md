@@ -37,7 +37,7 @@ Pronouns: he/him
 **Crypto / Stego:** `CyberChef` `Ghidra` `HxD` `zsteg` `steghide`  
 **Reverse / Forensics:** `Autopsy` `Brim` `NetworkMiner` `Wireshark` `strings` `binwalk`  
 **Cracking:** `John the Ripper` `hashcat`  
-**Other:** `Git` `Linux` `tmux` `jq`
+**Other:** `Git` `Linux`  `ghidra`
 
 ---
 
@@ -146,24 +146,4 @@ Never test systems without explicit authorization.
 
 ---
 
-## ✅ Quick Copy (Minimal Version)
 
-If you ever need a lighter version:
-
-```markdown
-# Akash Waris  
-Cybersecurity Enthusiast • CTF Player
-
-- Focus: Web Pentest | Crypto | Stego | DFIR | Recon Automation  
-- Building: Phantom_Recon  
-- CTFs: PicoCTF, US Cyber Games, Hackfinity, Industrial Intrusion  
-- Languages: Python, C++  
-- Tools: Burp, Nmap, Gobuster, John, Wireshark, Ghidra, Autopsy  
-- TryHackMe: https://tryhackme.com/p/XORgeist  
-- Team Writeups: (Fix URL)  
-- Contact: akashwaris.cybersec@gmail.com
-```
-
----
-
-⭐ If you like a project, consider starring it—motivation fuel for building more offensive / defensive tooling!
