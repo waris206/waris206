@@ -97,7 +97,6 @@ class AkashWaris:
 ThreatLens ingests suspicious samples, runs multi-signal behavioral analysis, and surfaces actionable threat intelligence — built to accelerate real analyst workflows. Designed with a modular, extensible architecture so new detection signals can be plugged in without touching core logic.
 
 **Released:** v2.0 "Swarm Protocol" on GitHub  
-**Coverage:** Medium write-up published · 2,800+ LinkedIn impressions at launch · engagement from active security professionals
 
 ```
 Key Capabilities
@@ -120,11 +119,10 @@ I actively compete in CTFs with team **Binary_Beasts** — writeups at [`waris20
 
 | Platform / Event | Category Focus | Notes |
 |---|---|---|
-| 🎯 PicoCTF | Web · Crypto · Forensics | Foundation grinding |
+| 🎯 CTF | Web · Crypto · Forensics | Foundation grinding |
 | 🇺🇸 US Cyber Games | Full spectrum | Competitive season |
 | ♾️ Hackfinity CTF | Multi-category | — |
 | 🏭 Industrial Intrusion CTF | ICS / OT Security | — |
-| 🌐 zerodays.events | Crypto (Padding Oracle, base-N) | AES CBC exploit solved |
 
 ---
 
@@ -156,9 +154,7 @@ I actively compete in CTFs with team **Binary_Beasts** — writeups at [`waris20
 | Goal | Status | Notes |
 |------|--------|-------|
 | ThreatLens v3 — expanded detection coverage | 🟢 Active | New signal sources + improved scoring |
-| 10+ structured CTF writeups | 🔵 Ongoing | Focus: web + crypto |
-| DFIR case study repo (PCAP + timeline) | ⚪ Planned | Narrative forensics format |
-| AWS cloud security depth (CloudGoat, flaws.cloud) | 🔵 Ongoing | HackTricks Cloud reference |
+
 
 ---
 
