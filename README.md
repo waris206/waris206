@@ -24,7 +24,7 @@
 
 ```python
 class AkashWaris:
-    role       = "Web Application Security Tester"
+    role       = "Web Application Security Tester  · Network Security "
     university = "FAST NUCES Islamabad | B.S. Cybersecurity (2023–2027)"
     certs      = ["CompTIA Pentest+", "Jr. Penetration Tester"]
     team       = "Binary_Beasts (CTF)"
